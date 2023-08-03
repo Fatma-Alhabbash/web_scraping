@@ -10,7 +10,7 @@ In this case, I used web scraping to get job information from a website. I follo
 
     - I used the ``` BeautifulSoup ``` library to search for content.
 
-    - I used the ``` Pandas ``` library to create a dataframe containing all information about specified jobs.
+    - I used the ``` Pandas ``` library to create a data frame containing all information about specified jobs.
 
     - ```  get_no_jobs_pages ``` function gets the number of pages containing this job field and the number of jobs each page contains.
 
