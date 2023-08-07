@@ -24,4 +24,4 @@ In this case, I used web scraping to get job information from a website. I follo
 
     - ``` combined_dfs.to_csv('data.csv', index=False) ``` This part of code saves the dataframe in csv. File.
     
-Thanks for taking the time to review this project. I hope you found it useful.
+*Thanks for taking the time to review this project. I hope you found it useful.*
