@@ -23,3 +23,5 @@ In this case, I used web scraping to get job information from a website. I follo
 2. In the second Python file (job_scraping), I import the module to extract information about the specific jobs I want.
 
     - ``` combined_dfs.to_csv('data.csv', index=False) ``` This part of code saves the dataframe in csv. File.
+
+#### Thanks for taking the time to review this project. I hope you found it useful.
